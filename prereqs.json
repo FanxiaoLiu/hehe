@@ -1,0 +1,291 @@
+{
+    "schools": [
+        {
+            "format": ["semester","lab?"],
+            "name": "Harvard",
+            "human": 0,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [0,0],
+            "genchem": [0,0],
+            "sharedchem": [
+                "biochem",
+                "genchem",
+                "orgo",
+                [4,4]
+            ],
+            "math": 2,
+            "advanced_math": 1,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 1,
+            "notes": []
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "UC Davis",
+            "human": 0,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [0,0],
+            "genchem": [2,0],
+            "sharedchem": [
+                "biochem",
+                "orgo",
+                [2,2]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,0],
+            "biology": [2,0],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": []
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "UConn",
+            "human": 0,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [1,1],
+            "genchem": [0,0],
+            "sharedchem": [
+                "biochem",
+                "genchem",
+                "orgo",
+                [3,3]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Yale",
+            "human": 0,
+            "english": 0,
+            "biochem": [1,1],
+            "orgo": [1,1],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Howard",
+            "human": 2,
+            "english": 2,
+            "biochem": [1,0],
+            "orgo": [2,2],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 1,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                "Math req can be met with either math or stats"
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "George Washington University",
+            "human": 0,
+            "english": 0,
+            "biochem": [0,0],
+            "orgo": [0,0],
+            "genchem": [0,0],
+            "sharedchem": [
+                "biochem",
+                "genchem",
+                "orgo",
+                [4,4]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [1,0],
+            "biology": [2,0],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                "2 years of lab experience ion bio, chem or physics is required",
+                "For the chemistry req, only the second semester of orgo counts",
+                "This school is quirky"
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "UChicago",
+            "human": 2,
+            "english": 2,
+            "biochem": [1,0],
+            "orgo": [1,0],
+            "genchem": [2,2],
+            "sharedchem": [
+                "biochem",
+                "orgo",
+                [2,1]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 1,
+            "notes": [
+                "Stats can be either stats or biomathematics.",
+                "1 sem of biochem and orgo each, only one needs to have lab"
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Northwestern",
+            "human": 0,
+            "english": 0,
+            "biochem": [0,0],
+            "orgo": [0,0],
+            "genchem": [2,2],
+            "sharedchem": [
+                "biochem",
+                "orgo",
+                [2,2]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "UInninois",
+            "human": 0,
+            "english": 0,
+            "biochem": [1,0],
+            "orgo": [1,1],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [1,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Louisiana State",
+            "human": 0,
+            "english": 2,
+            "biochem": [1,0],
+            "orgo": [2,2],
+            "genchem": [2,2],
+            "sharedchem": [
+                
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 1,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "BostonU",
+            "human": 2,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [0,0],
+            "genchem": [0,0],
+            "sharedchem": [
+                "biochem",
+                "genchem",
+                "orgo",
+                [4,3]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "UMaryland",
+            "human": 0,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [1,1],
+            "genchem": [2,2],
+            "sharedchem": [
+                "biochem",
+                "orgo",
+                [2,1]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 1,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "MichState",
+            "human": 1,
+            "english": 0,
+            "biochem": [1,0],
+            "orgo": [2,2],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 1,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [1,0],
+            "stats": 0,
+            "notes": [
+                "Stats or math works for the math prereq"
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "user": [
+        {
+            "name": "hehe",
+            "biochem": [
+                2,
+                0
+            ],
+            "orgo": [
+                2,
+                2
+            ],
+            "genchem": [
+                2,
+                2
+            ],
+            "bio": [
+                3,
+                3
+            ],
+            "adv_bio": [
+                1,
+                1
+            ],
+            "phys": [
+                2,
+                2
+            ],
+            "math": 8,
+            "adv_math": 3,
+            "stats": 1,
+            "english": 2,
+            "human": 4
+        },
+        {
+            "name": "haha",
+            "biochem": [
+                1,
+                1
+            ],
+            "orgo": [
+                1,
+                1
+            ],
+            "genchem": [
+                1,
+                1
+            ],
+            "bio": [
+                1,
+                1
+            ],
+            "adv_bio": [
+                1,
+                1
+            ],
+            "phys": [
+                1,
+                1
+            ],
+            "math": 1,
+            "adv_math": 1,
+            "stats": 1,
+            "english": 1,
+            "human": 1
+        }
+    ]
+}
