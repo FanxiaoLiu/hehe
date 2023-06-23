@@ -301,15 +301,49 @@ if __name__ == "__main__":
         reqs_met.append(status)
         all_reasons.append(reasons)
 
+    while True:
+        menu = input("Decide what you want to do: \n1. Print all \n2. Filter by not met \n3. Filter by met\n4. Exit \nPlease enter the number: ")
+        if menu == '1':
+            for x in range(0,len(prereqs)):
+                print("--------------------------------------------------------------------------")
+                print("School: " ,prereqs[x].name,"\tReqs Met: ", reqs_met[x])
+                print("--------------------------------------------------------------------------")
+                for i in all_reasons[x]:
+                    print(i)
 
-    for x in range(0,len(prereqs)):
-        print("--------------------------------------------------------------------------")
-        print("School: " ,prereqs[x].name,"\tReqs Met: ", reqs_met[x])
-        print("--------------------------------------------------------------------------")
-        for i in all_reasons[x]:
-            print(i)
+                print("\nNotes: ")
+                for i in prereqs[x].notes:
+                    print(i)
+                print("--------------------------------------------------------------------------")
+        elif menu == '2':
+            for x in range(0,len(prereqs)):
+                if reqs_met[x] == "No":
+                    print("--------------------------------------------------------------------------")
+                    print("School: " ,prereqs[x].name,"\tReqs Met: ", reqs_met[x])
+                    print("--------------------------------------------------------------------------")
+                    for i in all_reasons[x]:
+                        print(i)
 
-        print("\nNotes: ")
-        for i in prereqs[x].notes:
-            print(i)
-        print("--------------------------------------------------------------------------")
+                    print("\nNotes: ")
+                    for i in prereqs[x].notes:
+                        print(i)
+                    print("--------------------------------------------------------------------------")
+        elif menu == '3':
+            for x in range(0,len(prereqs)):
+                if reqs_met[x] == "Yes":
+                    print("--------------------------------------------------------------------------")
+                    print("School: " ,prereqs[x].name,"\tReqs Met: ", reqs_met[x])
+                    print("--------------------------------------------------------------------------")
+                    for i in all_reasons[x]:
+                        print(i)
+
+                    print("\nNotes: ")
+                    for i in prereqs[x].notes:
+                        print(i)
+                    print("--------------------------------------------------------------------------")
+        elif menu == '4':
+            break
+        else:
+            print("Please enter a valid input!")
+
+    
