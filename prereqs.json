@@ -285,7 +285,368 @@
             "notes": [
                 "Stats or math works for the math prereq"
             ]
-        }
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Central Mich Uni",
+            "human": 0,
+            "english": 0,
+            "biochem": [0,0],
+            "orgo": [1,1],
+            "genchem": [0,0],
+            "sharedchem": [
+                "biochem",
+                "orgo",
+                [2,1]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [0,0],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                "Recommends alot of shit"
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Wayne State Uni",
+            "human": 0,
+            "english": 1,
+            "biochem": [0,0],
+            "orgo": [2,0],
+            "genchem": [2,0],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,1],
+            "biology": [2,0],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "WashU St. Louis",
+            "human": 0,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [1,1],
+            "genchem": [2,2],
+            "sharedchem": [
+                "biochem",
+                "orgo",
+                [2,1]
+            ],
+            "math": 2,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                "Stats can be used to satisfy one math req"
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "St. Louis U",
+            "human": 4,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [2,2],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,1],
+            "biology": [2,0],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "UNC at Chapel Hill",
+            "human": 0,
+            "english": 1,
+            "biochem": [0,0],
+            "orgo": [2,0],
+            "genchem": [2,0],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,1],
+            "biology": [2,0],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Dartmouth",
+            "human": 0,
+            "english": 1,
+            "biochem": [1,1],
+            "orgo": [1,1],
+            "genchem": [0,0],
+            "sharedchem": [
+                "biochem",
+                "genchem",
+                "orgo",
+                [4,4]
+            ],
+            "math": 1,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Rutger New Jersey",
+            "human": 4,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [2,2],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,1],
+            "biology": [2,0],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Cornell",
+            "human": 4,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [1,1],
+            "genchem": [2,0],
+            "sharedchem": [
+                "biochem",
+                "orgo",
+                [2,1]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Icahn School of Medicine",
+            "human": 0,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [1,0],
+            "genchem": [2,2],
+            "sharedchem": [
+                "biochem",
+                "orgo",
+                [2,0]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [1,1],
+            "biology": [2,0],
+            "advanced_biology": [0,0],
+            "stats": 1,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "NY Medical College",
+            "human": 0,
+            "english": 2,
+            "biochem": [1,0],
+            "orgo": [1,1],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Columbia University",
+            "human": 0,
+            "english": 2,
+            "biochem": [1,0],
+            "orgo": [1,1],
+            "genchem": [0,0],
+            "sharedchem": [
+                "biochem",
+                "genchem",
+                "orgo",
+                [4,4]
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,1],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Case Western",
+            "human": 0,
+            "english": 1,
+            "biochem": [1,0],
+            "orgo": [1,1],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [0,0],
+            "biology": [0,0],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "UPittsburgh",
+            "human": 0,
+            "english": 2,
+            "biochem": [1,0],
+            "orgo": [1,1],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 1,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Brown University",
+            "human": 0,
+            "english": 2,
+            "biochem": [1,0],
+            "orgo": [1,1],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,0],
+            "advanced_biology": [1,0],
+            "stats": 0,
+            "notes": [
+                "Only Genetics"
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Meharry Medical College",
+            "human": 0,
+            "english": 2,
+            "biochem": [0,0],
+            "orgo": [2,2],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 0,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [0,0],
+            "stats": 0,
+            "notes": [
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Baylor College of Medicine",
+            "human": 4,
+            "english": 1,
+            "biochem": [2,0],
+            "orgo": [2,0],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 1,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [1,0],
+            "stats": 0,
+            "notes": [
 
+                "Genetics/Cell Bio is fine"
+                
+            ]
+        },
+        {
+            "format": ["semester","lab?"],
+            "name": "Virginia Commonwealth",
+            "human": 0,
+            "english": 2,
+            "biochem": [1,0],
+            "orgo": [2,2],
+            "genchem": [2,2],
+            "sharedchem": [
+            ],
+            "math": 2,
+            "advanced_math": 0,
+            "physics": [2,2],
+            "biology": [2,2],
+            "advanced_biology": [1,0],
+            "stats": 0,
+            "notes": [
+                "Stats can also satisfy math prereqs"
+            ]
+        }
     ]
 }
