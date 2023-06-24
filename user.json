@@ -63,6 +63,38 @@
             "stats": 1,
             "english": 1,
             "human": 1
+        },
+        {
+            "name": "thirdyear",
+            "biochem": [
+                1,
+                0
+            ],
+            "orgo": [
+                2,
+                2
+            ],
+            "genchem": [
+                2,
+                2
+            ],
+            "bio": [
+                4,
+                2
+            ],
+            "adv_bio": [
+                2,
+                0
+            ],
+            "phys": [
+                2,
+                2
+            ],
+            "math": 6,
+            "adv_math": 3,
+            "stats": 1,
+            "english": 2,
+            "human": 3
         }
     ]
 }
